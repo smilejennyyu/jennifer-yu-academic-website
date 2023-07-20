@@ -221,12 +221,12 @@ sections:
         - date_start: '2021-05-01'
           date_end: '2021-08-31'
           organization: Province of Ontario, University of Toronto
-          description: 'The Ontario Graduate Scholarship (OGS) program encourages excellence in graduate studies at publicly-assisted universities in Ontario. Since 1975, the OGS program has been providing merit-based scholarships to Ontario’s best graduate students in all disciplines of academic study.'
+          description: 'The BioTalent Canada Work Placement Program Funding aims to fund high-achieving students in science, technology, engineering, mathematics (STEM), and business fields, providing them with exclusive opportunities to gain practical experience through funded work placements with esteemed employers.'
           title: BioTalent Canada Work Placement Program Funding ($7,000)
         - date_start: '2020-09-01'
           date_end: '2022-04-30'
           organization: NSERC, CIHR, SSHRC
-          description: 'The BioTalent Canada Work Placement Program Funding aims to fund high-achieving students in science, technology, engineering, mathematics (STEM), and business fields, providing them with exclusive opportunities to gain practical experience through funded work placements with esteemed employers.'
+          description: 'The Undergraduate Student Research Awards (USRA) program is administered jointly by Canada’s three research granting agencies: the Natural Sciences and Engineering Research Council of Canada (NSERC), the Canadian Institutes of Health Research (CIHR), and the Social Sciences and Humanities Research Council of Canada (SSHRC).'
           title: NSERC Undergraduate Student Research Award ($6,000 × 3)
         - date_start: '2019-09-01'
           date_end: '2020-12-20'
