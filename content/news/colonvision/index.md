@@ -6,6 +6,7 @@ summary: __Another Journal Acceptance!__ <br> Our collaborative research work wi
 
 # Date published
 date: '2023-06-22T00:00:00Z'
+lastmod: '2023-06-22T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

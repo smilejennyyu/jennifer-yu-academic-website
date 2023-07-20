@@ -6,6 +6,7 @@ summary: "__New Start: MSc. student at University of Toronto__ <br> I started my
 
 # Date published
 date: '2022-09-01T00:00:00Z'
+lastmod: '2022-09-01T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

@@ -6,6 +6,7 @@ summary: __Internship at Enable Medicine__ <br> I started my 4-month summer inte
 
 # Date published
 date: '2023-05-01T00:00:00Z'
+lastmod: '2023-05-01T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

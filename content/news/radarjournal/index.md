@@ -6,6 +6,7 @@ summary: __My First Journal Publication__ <br> I published my first journal arti
 
 # Date published
 date: '2023-04-29T00:00:00Z'
+lastmod: '2023-04-29T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

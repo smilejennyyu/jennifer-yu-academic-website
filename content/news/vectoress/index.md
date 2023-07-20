@@ -6,6 +6,7 @@ summary: "__My First Invited Talk at Vector Institute__ <br> I gave a talk on my
 
 # Date published
 date: '2023-03-16T00:00:00Z'
+lastmod: '2023-03-16T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

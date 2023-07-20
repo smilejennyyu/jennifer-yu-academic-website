@@ -6,6 +6,7 @@ summary: __Lighting Talk at *IEEE SDS* Conference__ <br> I gave a lighting talk 
 
 # Date published
 date: '2023-06-22T00:00:00Z'
+lastmod: '2023-06-22T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

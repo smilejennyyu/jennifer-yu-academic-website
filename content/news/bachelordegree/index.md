@@ -6,6 +6,8 @@ summary: __BASc. Degree Received!__ <br> I finally received my **Bachelor of App
 
 # Date published
 date: '2022-06-19T00:00:00Z'
+lastmod: '2022-06-19T00:00:00Z'
+
 
 # Is this an unpublished draft?
 draft: false

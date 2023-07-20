@@ -6,6 +6,7 @@ summary: "__My first conference presentation at *MLCB 2021*!__ <br> I gave a pos
 
 # Date published
 date: '2021-11-23T00:00:00Z'
+lastmod: '2021-11-23T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
