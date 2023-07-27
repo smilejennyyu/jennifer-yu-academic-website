@@ -29,19 +29,19 @@ publication: "*American Journal of Physiology-Gastrointestinal and Liver Physiol
 publication_short: ""
 
 abstract: 
-<u>Background and aims</u>
+Background and aims
 
 Effective and widely available strategies are needed to diagnose colonic motility dysfunction. We investigated whether ultrasonography combined with motor pattern frequency analysis can be a noninvasive method to characterize human colon motor patterns. 
 
-<u>Methods</u>
+Methods
 
 Abdominal colonic ultrasonography was performed on healthy subjects (N = 7), focusing on the detailed recording of spontaneous haustral activities. We developed image segmentation and frequency analysis software to analyze the motor patterns captured. 
 
-<u>Results</u>
+Results
 
 Ultrasonography recordings of the ascending, transverse and descending colon identified three distinct rhythmic motor patterns: the 1 cycle/min and the 3 cycles/min cyclic motor pattern were seen throughout the whole colon, whereas the 12 cycles/min cyclic motor pattern was identified in the ascending colon. 
 
-<u>Conclusion</u>
+Conclusion
 
 The rhythmic motor patterns of the human colon that are associated with interstitial cells of Cajal (ICC) associated pacemaking activity can be accurately identified and quantified using ultrasound and frequency analysis.
 
