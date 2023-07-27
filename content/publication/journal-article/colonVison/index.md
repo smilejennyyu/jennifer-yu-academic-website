@@ -13,7 +13,7 @@ authors:
 - Jan Huizinga
 
 date: "2023-06-22T00:00:00Z"
-doi: ""
+doi: "10.1152/ajpgi.00068.2023"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-22T00:00:00Z"
