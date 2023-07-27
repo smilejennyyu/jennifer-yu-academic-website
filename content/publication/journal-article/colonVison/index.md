@@ -13,10 +13,10 @@ authors:
 - Jan Huizinga
 
 date: "2023-06-22T00:00:00Z"
-doi: "10.1152/ajpgi.00068.2023"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-18T00:00:00Z"
+publishDate: "2023-06-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,6 @@ publication: "*American Journal of Physiology-Gastrointestinal and Liver Physiol
 publication_short: ""
 
 abstract: 
-""
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -40,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'publication/journal-article/colonVison/colon_vision_paper.pdf'
+url_pdf: ''
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
