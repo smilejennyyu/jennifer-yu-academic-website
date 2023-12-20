@@ -41,7 +41,7 @@ tags: [Change point detection, Time series, Dynamic window, Health monitoring]
 # Display this page in the Featured widget?
 featured: false
 
-url_pdf: 'publication/conference-paper/mlcb2023/MLCB2023_paper.pdf'
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2023.11.26.568745v1.full.pdf'
 url_poster: 'publication/conference-paper/mlcb2023/MLCB2023_poster.pdf'
 
 ---
