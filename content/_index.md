@@ -151,12 +151,12 @@ sections:
           company_logo: "enable"
           location: Menlo Park, California, USA
           date_start: '2023-05-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+          date_end: '2023-08-30'
+          # description: |2-
+          #     Responsibilities include:
 
-              * Deep learning R&D 
-              * Medical imaging analysis
+          #     * Deep learning R&D 
+          #     * Medical imaging analysis
         - title: Research Student
           company: Vector Institute - Goldenberg Lab
           company_url: 'https://goldenberglab.ca/'
@@ -164,10 +164,10 @@ sections:
           location: Toronto, Ontario, Canada
           date_start: '2022-05-01'
           date_end: ''
-          description: |2-
-              * Designed and implemented a novel dynamic change point detection method with better performance and interpretability
-              * Developing interpretable time-series forecasting models for pregnancy delivery date prediction
-              * Exploring individualized delivery readiness using machine learning methods
+          # description: |2-
+          #     * Designed and implemented a novel dynamic change point detection method with better performance and interpretability
+          #     * Developing interpretable time-series forecasting models for pregnancy delivery date prediction
+          #     * Exploring individualized delivery readiness using machine learning methods
         - title: Research Student (Co-op)
           company: Ontario Institute for Cancer Research - Pai Lab
           company_url: 'https://pailab.oicr.on.ca/'
@@ -175,9 +175,9 @@ sections:
           location: Toronto, Ontario, Canada
           date_start: '2021-05-01'
           date_end: '2021-08-30'
-          description: |2-
-              * Developed a deep-learning patient classifier with an accuracy of 88% using graph attention networks to predict clinical outcomes of patients with cancer
-              * Improved model computational efficiency by ~50% compared to existing algorithms 
+          # description: |2-
+          #     * Developed a deep-learning patient classifier with an accuracy of 88% using graph attention networks to predict clinical outcomes of patients with cancer
+          #     * Improved model computational efficiency by ~50% compared to existing algorithms 
 
         - title: Undergraduate Research Assistant
           company: University of Waterloo - Wireless Sensors and Devices Lab
@@ -186,10 +186,10 @@ sections:
           location: Waterloo, Ontario, Canada
           date_start: '2020-07-01'
           date_end: '2020-12-20'
-          description: |2-
-              * Built an ML model with high precision and recall for in-car occupant detection using 4D MIMO radar 
-              * Designed an ML data pipeline for multi-label classification with big data, including data pre-processing, model training & testing and performance evaluation
-              * Analyzed and benchmarked different neural network architectures
+          # description: |2-
+          #     * Built an ML model with high precision and recall for in-car occupant detection using 4D MIMO radar 
+          #     * Designed an ML data pipeline for multi-label classification with big data, including data pre-processing, model training & testing and performance evaluation
+          #     * Analyzed and benchmarked different neural network architectures
 
 
     design:
@@ -208,6 +208,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_start: '2023-08-01'
+          date_end: '2023-12-19'
+          organization: Vector Institute
+          description: 'The Vector Research Grant awarded to top graduate students pursuing AI research at Vector Institute.'
+          title: Vector Research Grant ($4,000)
         - date_start: '2022-09-01'
           date_end: '2023-08-31'
           organization: Vector Institute

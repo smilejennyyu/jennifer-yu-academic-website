@@ -15,11 +15,11 @@ authors:
 author_notes:
   - 'Presenter'
   
-date: '2023-06-22T00:00:00Z'
+date: '2023-10-24T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-06-22T00:00:00Z'
+publishDate: '2023-10-24T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +28,8 @@ publishDate: '2023-06-22T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 10th IEEE Swiss Conference on Data Science Workshop on Data Science Techniques for Datasets on Mental and Neurodegenerative Disorders*
-publication_short: "In *IEEE-SDS: DS Techniques for Datasets on MDs and NDs*"
+publication: In *Proceedings of the Workshop on Data Science Techniques for Datasets on Mental and Neurodegenerative Disorders*
+publication_short: "In *DSTNDS 2023*"
 
 abstract: Maternal health is one of the main sustainable development goals of the World Health Organization (WHO). Changes associated with pregnancy can be reflected in the physiological, psychological and behavioral states of women. In this study, we investigated relationships between Adverse Childhood Experiences (ACEs) and mental health symptoms such as depression and anxiety over pregnancy and into the postpartum period, as well as  quality of life. Further, we examined the interrelationship between mental health and physical health during  and post pregnancy, finding that the effects during pre and postnatal periods tend to differ. We hope that our analysis lays potential groundwork for exploring more complex relationships between mental health symptoms and ACEs during and post pregnancy.
 
@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/conference-paper/causality/causality_paper.pdf'
+url_pdf: 'https://ceur-ws.org/Vol-3521/paper1.pdf'
 url_code: 'https://github.com/smilejennyyu/BUMP_causality'
 url_poster: 'publication/conference-paper/causality/causality_poster.pdf'
 # url_slides: 'publication/conference-paper/IEEECausality/Final-Presentation-Lighting-talk-IEEESDS23.pptx'
