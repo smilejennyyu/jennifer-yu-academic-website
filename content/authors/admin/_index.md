@@ -80,7 +80,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cv_jenny.pdf
+    link: uploads/cv_jenny_20241030.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'jiy4011@med.cornell.edu'
