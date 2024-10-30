@@ -56,7 +56,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jenniferjie.yu@mail.utoronto.ca'
+    link: 'mailto:jiy4011@med.cornell.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -80,11 +80,11 @@ social:
     link: uploads/cv_jenny.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'jenniferjie.yu@mail.utoronto.ca'
+email: 'jiy4011@med.cornell.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi! I'm an MSc student at the University of Toronto (UofT), studying Computer Science with a research focus on AI for health.  I'm privileged to be mentored by [Dr. Anna Goldenberg](https://vectorinstitute.ai/team/anna-goldenberg/), who is affiliated with both SickKids Hospital and Vector Institute. Before my time at the UofT, I studied Biomedical Engineering at the University of Waterloo. There, I specialized in AI and computing, which helped build a solid foundation for my current research. 
+Hi! I am a PhD student currently pursuing my studies in the Tri-Institutional PhD Program in Computational Biology and Medicine, a collaborative effort between Cornell University, Weill Cornell Medicine, Memorial Sloan Kettering Cancer Center, and Rockefeller University. I graduated with a Master of Science degree in Computer Science at University of Toronto, focusing on AI for health research. I had the privilege of being mentored by [Dr. Anna Goldenberg](https://vectorinstitute.ai/team/anna-goldenberg/), who is affiliated with both SickKids Hospital and Vector Institute. Before my time at the UofT, I studied Biomedical Engineering at the University of Waterloo. There, I specialized in AI and computing, which helped build a solid foundation for my current research. 
 
-My research work primarily focuses on digital health, wearable tech, time series, medical imaging, and causality. Currently, my main project aims to leverage the power of AI-based methods to gain profound insights into pregnancy-related physiology. This includes comprehending mental health symptoms, identifying complications, and assessing delivery readiness.  As a Machine Learning researcher in the healthcare field, I am deeply committed to bridging the gap between AI and healthcare, aiming to make a meaningful impact on the healthcare field!
+My research work primarily focuses on computational biology, digital health, wearable technology, medical imaging, and more! As an AI4Medicine researcher, I would like to bridge the gap between AI and medicine and make an impact in the healthcare field.
