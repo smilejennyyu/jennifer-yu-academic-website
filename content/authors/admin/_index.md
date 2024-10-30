@@ -36,16 +36,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence in Health
+  - Artificial Intelligence in Medicine and Health
   - Computational Biology
   - Precision Medicine
 
 # Education to show in About widget
 education:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
+    - course: PhD in Computational Biology and Medicine
+      institution: Tri-I (Weill Cornell Medicine/Cornell University, Memorial Sloan Kettering Cancer Center, and Rockefeller University)
     - course: MSc in Computer Science
       institution: University of Toronto
       year: 2024
