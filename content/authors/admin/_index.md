@@ -18,10 +18,14 @@ role: MSc. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Toronto
-    url: https://goldenberglab.ca/
-  - name: (Goldenberg Lab)
-    url: https://goldenberglab.ca/
+  - name: Weill Cornell Medicine
+    url: https://weill.cornell.edu/
+  - name: Cornell University
+    url: https://www.cornell.edu/
+  - name: Memorial Sloan Kettering Cancer Center
+    url: https://www.mskcc.org/
+  - name: Rockefeller University
+    url: https://www.rockefeller.edu/
   - name: Vector Institute
     url: https://vectorinstitute.ai/
   - name: SickKids
