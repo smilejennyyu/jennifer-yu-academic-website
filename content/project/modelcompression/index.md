@@ -18,7 +18,7 @@ links:
   #   icon_pack: fab
   #   name: Follow
   #   url: https://twitter.com/georgecushen
-url_code: 'https://github.com/smilejennyyu/csc2231-image-compression'
+url_code: ''
 url_pdf: 'project/modelcompression/report.pdf'
 url_poster: 'project/modelcompression/poster.pdf'
 url_slides: ''

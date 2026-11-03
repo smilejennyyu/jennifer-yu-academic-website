@@ -20,7 +20,7 @@ publishDate: "2023-04-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Sensors Journal, (Volume: 23, Issue: 11, 01 June 2023)"
+publication: "*IEEE Sensors Journal*, 23(11), 11296–11307, 2023"
 publication_short: "IEEE Sensors"
 
 abstract: In this article, we use a multiple-input–multiple-output (MIMO) radar for in-vehicle passenger detection. We propose a 2-D convolutional neural network-long short-term memory (CNN-LSTM) to accurately detect, count, and classify passengers inside five-seater vehicles. Our deep learning model first extracts the feature using a CNN model, and then, a series of frames will be delivered to a time series model (LSTM) to predict new scenarios. In addition, we provide the outcomes of various deep learning models and show that temporal deep learning models perform better in our radar datasets. Furthermore, we provide reliable session-dependent datasets collected from different car models with various passengers (including infants/children and adults). The results show that our proposed 2-D CNN-LSTM model can detect unattended infants/children in vehicles with more than 95% accuracy, count passengers and identify their occupied seats with an accuracy of 89%, and classify passengers with more than 74% accuracy. Since our model is evaluated in a new car with new passengers, it ensures the generality of our proposed method to be deployed in any five-seater vehicle.

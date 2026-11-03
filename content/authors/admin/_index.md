@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSc. Student
+role: PhD Student in Computational Biology and Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,29 +26,28 @@ organizations:
     url: https://www.mskcc.org/
   - name: Rockefeller University
     url: https://www.rockefeller.edu/
-  - name: Vector Institute
-    url: https://vectorinstitute.ai/
-  - name: SickKids
-    url: https://www.sickkids.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, large language models, precision oncology and clinical time series.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence in Medicine and Health
+  - Machine Learning for Medicine and Health
+  - Large Language Models
+  - Precision Oncology and Cancer Genomics
+  - Clinical and Wearable Time Series
   - Computational Biology
-  - Precision Medicine
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computational Biology and Medicine
-      institution: Tri-I (Weill Cornell Medicine/Cornell University, Memorial Sloan Kettering Cancer Center, and Rockefeller University)
+      institution: Tri-Institutional PhD Program (Weill Cornell Medicine/Cornell University, Memorial Sloan Kettering Cancer Center, and Rockefeller University)
+      year: 2024–present
     - course: MSc in Computer Science
       institution: University of Toronto
       year: 2024
-    - course: BASc in Biomedical Engineering
+    - course: BASc in Honours Biomedical Engineering (Co-op, with Distinction), Minor in AI and Computing
       institution: University of Waterloo
       year: 2022
 
@@ -80,7 +79,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cv_jenny_20241030.pdf
+    link: uploads/cv_jenny_2026Oct.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'jiy4011@med.cornell.edu'
@@ -88,6 +87,8 @@ email: 'jiy4011@med.cornell.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi! I am a PhD student currently pursuing my studies in the Tri-Institutional PhD Program in Computational Biology and Medicine, a collaborative effort between Cornell University, Weill Cornell Medicine, Memorial Sloan Kettering Cancer Center, and Rockefeller University. I graduated with a Master of Science degree in Computer Science at University of Toronto, focusing on AI for health research. I had the privilege of being mentored by [Dr. Anna Goldenberg](https://vectorinstitute.ai/team/anna-goldenberg/), who is affiliated with both SickKids Hospital and Vector Institute. Before my time at the UofT, I studied Biomedical Engineering at the University of Waterloo. There, I specialized in AI and computing, which helped build a solid foundation for my current research. 
+Hi! I am a PhD student in the Tri-Institutional PhD Program in Computational Biology and Medicine, a collaborative effort between Cornell University, Weill Cornell Medicine, Memorial Sloan Kettering Cancer Center, and Rockefeller University. I am co-advised by [Dr. Quaid Morris](https://www.mskcc.org/research/ski/labs/quaid-morris) and [Dr. Justin Jee](https://www.mskcc.org/cancer-care/doctors/justin-jee) at Memorial Sloan Kettering Cancer Center. My current research sits at the intersection of machine learning and precision oncology: I work on large language models for interpreting tumor genomics and pathology reports, and on foundation models for longitudinal clinical time series (laboratory and vital-sign measurements) that predict treatment toxicities and other adverse events for patients with cancer.
 
-My research work primarily focuses on computational biology, digital health, wearable technology, medical imaging, and more! As an AI4Medicine researcher, I would like to bridge the gap between AI and medicine and make an impact in the healthcare field.
+Before my PhD, I completed a Master of Science in Computer Science at the University of Toronto, where I had the privilege of being mentored by [Dr. Anna Goldenberg](https://vectorinstitute.ai/team/anna-goldenberg/), who is affiliated with both SickKids Hospital and Vector Institute. There, I worked on AI for digital health, including wearable time series, change point detection, graph neural networks and causal discovery for personalized pregnancy monitoring. Before that, I studied Biomedical Engineering at the University of Waterloo, where I specialized in AI and computing, which helped build a solid foundation for my current research.
+
+As an AI4Medicine researcher, I would like to bridge the gap between AI and medicine and make an impact in the healthcare field.

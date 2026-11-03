@@ -5,7 +5,6 @@ summary: This study finds that machine learning models trained on pooled electro
 
 tags:
   - Time Series
-  - Ongoing
 date: '2023-04-19T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

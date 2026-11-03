@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Jennifer (Jie) Yu is a PhD student in Computational Biology and Medicine in the Tri-Institutional program (Weill Cornell Medicine, Memorial Sloan Kettering Cancer Center, Rockefeller University), working on machine learning, large language models and time series for precision oncology and digital health.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/smilejennyyu/jennifer-yu-academic-website'
     content_dir: content
     branch: main
   avatar:

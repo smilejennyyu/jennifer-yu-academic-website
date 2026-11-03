@@ -15,11 +15,11 @@ authors:
 author_notes:
   - 'Presenter'
 
-date: '2023-12-19T00:00:00Z'
-doi: '10.1101/2023.11.26.568745'
+date: '2024-03-15T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-12-19T00:00:00Z'
+publishDate: '2024-03-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,20 +28,26 @@ publishDate: '2023-12-19T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 18th Machine Learning in Computational Biology*
+publication: In *Proceedings of the 18th Machine Learning in Computational Biology meeting*, PMLR 240:135-147, 2024
 publication_short: In *MLCB 2023*
 
-abstract: Due to the rapid increase and importance of multiplexed immunofluorescence (mIF) imaging data in spatial biology, there is a pressing need to develop efficient image-to-image search pipelines for both diagnostic and research purposes. While several image search methods have been introduced for conventional images and digital pathology, mIF images present three main challenges:\ (1) high dimensionality, (2) domain-specificity, and (3) complex additional molecular information. To address this gap, we introduce the MIISS framework, a Multi-granularity mIF Image Similarity Search pipeline that employs self-supervised learning models to extract features from mIF image patches and an entropy-based aggregation method to enable similarity searches at higher, multi-granular levels. We then benchmarked various feature generation approaches to handle high dimensional images and tested them on various foundation models. We conducted evaluations using datasets from different tissues on both patch- and patient-level, which demonstrate the framework's effectiveness and generalizability. Notably, we found that domain-specific models consistently outperformed other models, further showing their robustness and generalizability across different datasets. The MIISS framework offers an effective solution for navigating the growing landscape of mIF images, providing tangible clinical benefits and opening new avenues for pathology research.
+abstract: |-
+  Due to the rapid increase and importance of multiplexed immunofluorescence (mIF) imaging data in spatial biology, there is a pressing need to develop efficient image-to-image search pipelines for both diagnostic and research purposes. While several image search methods have been introduced for conventional images and digital pathology, mIF images present three main challenges: (1) high dimensionality, (2) domain-specificity, and (3) complex additional molecular information. To address this gap, we introduce the MIISS framework, a Multi-granularity mIF Image Similarity Search pipeline that employs self-supervised learning models to extract features from mIF image patches and an entropy-based aggregation method to enable similarity searches at higher, multi-granular levels. We then benchmarked various feature generation approaches to handle high dimensional images and tested them on various foundation models. We conducted evaluations using datasets from different tissues on both patch- and patient-level, which demonstrate the framework’s effectiveness and generalizability. Notably, we found that domain-specific models consistently outperformed other models, further showing their robustness and generalizability across different datasets. The MIISS framework offers an effective solution for navigating the growing landscape of mIF images, providing tangible clinical benefits and opening new avenues for pathology research.
 
 # Summary. An optional shortened abstract.
 summary: First image similarity search system on multiplexed immunofluorescence (mIF) tissue images
 
-tags: [Change point detection, Time series, Dynamic window, Health monitoring]
+tags: [Medical Imaging, Computer Vision, Self-supervised Learning, Spatial Biology, Foundation Models]
 
 # Display this page in the Featured widget?
 featured: false
 
-url_pdf: 'https://www.biorxiv.org/content/10.1101/2023.11.26.568745v1.full.pdf'
+links:
+  - name: PMLR
+    url: 'https://proceedings.mlr.press/v240/yu24a.html'
+  - name: bioRxiv preprint
+    url: 'https://doi.org/10.1101/2023.11.26.568745'
+url_pdf: 'https://proceedings.mlr.press/v240/yu24a/yu24a.pdf'
 url_poster: 'publication/conference-paper/mlcb2023/MLCB2023_poster.pdf'
 
 ---
